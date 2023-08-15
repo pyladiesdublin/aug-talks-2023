@@ -7,7 +7,7 @@
 
   
 # Announcements
-Coming soon
+https://docs.google.com/presentation/d/e/2PACX-1vSBh3LIuj2rXzR8WU-4LtOB8477lmcQ-0ZeLDB20zAM9r__rbUGtUDgspsO2c0nTRt_uEjnbv4tbPRS/pub?start=false&loop=false&delayms=3000
 
 # Talks
 ## TALK - An Introduction to Unicode in Python by Eddie Antonio Santos
@@ -19,6 +19,8 @@ Eddie is a PhD in Computing Education at University College Dublin. Prior to tha
 
 ## WORKSHOP - Python/Ansible workshop by Nana da Silva
 (60 mins) Learning how to use Ansible and automate your boring stuff
+
+Pre-reqs: Have Python, flask and ansible installed.
 
 ### About Nana da Silva
 Hi! I’m Nana, a Brazilian living in Ireland since 2019 and work as a software quality engineer at Red Hat. Mother of a gorgeous baby and 2 crazy cats.
