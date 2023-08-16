@@ -13,6 +13,9 @@ https://docs.google.com/presentation/d/e/2PACX-1vSBh3LIuj2rXzR8WU-4LtOB8477lmcQ-
 ## TALK - An Introduction to Unicode in Python by Eddie Antonio Santos
 (30 mins) Unicode is ubiquitous — nearly all modern computers use it to store and transmit text — and yet most developer know very little or get panicked when they see the message "UnicodeDecodeError: 'utf-8' codec can't decode byte 0x92". Panic no more! Eddie will give the introduction that you never got about Unicode, and give best practices and the knowledge you need to handle text from all around the world!
 
+* Slides: https://www.slideshare.net/EddieAntonioSantos/introduction-to-unicode-that-you-never-got-pyladies-dublin-august-2023
+* Solutions to notebook: https://colab.research.google.com/drive/1JFQX35joCPAbfIF4Ldu_yyGUYSM043q0
+
 ### About Eddie Antonio Santos
 Eddie is a PhD in Computing Education at University College Dublin. Prior to that, Eddie has worked in language reclamation work. Eddie has been programming Python for 16 years.
 * https://eddieantonio.ca/
