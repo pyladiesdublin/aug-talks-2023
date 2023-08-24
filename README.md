@@ -25,6 +25,8 @@ Eddie is a PhD in Computing Education at University College Dublin. Prior to tha
 
 Pre-reqs: Have Python, flask and ansible installed.
 
+* https://dev.to/shebangbash/webhook-and-ansible-5hd4
+
 ### About Nana da Silva
 Hi! I’m Nana, a Brazilian living in Ireland since 2019 and work as a software quality engineer at Red Hat. Mother of a gorgeous baby and 2 crazy cats.
 
